@@ -1,1 +1,1 @@
-React based oAuth App
+React/Firebase based oAuth App
